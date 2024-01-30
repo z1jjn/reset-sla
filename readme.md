@@ -1,0 +1,1 @@
+You can set up a scheduled .bat to run this to reset JSM Cloud SLAs in the background instead of running it on Postman manually.
